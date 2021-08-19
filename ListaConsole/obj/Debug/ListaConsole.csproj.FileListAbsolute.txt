@@ -1,0 +1,7 @@
+C:\Users\caleb\source\repos\ListaConsole\ListaConsole\bin\Debug\ListaConsole.exe.config
+C:\Users\caleb\source\repos\ListaConsole\ListaConsole\bin\Debug\ListaConsole.exe
+C:\Users\caleb\source\repos\ListaConsole\ListaConsole\bin\Debug\ListaConsole.pdb
+C:\Users\caleb\source\repos\ListaConsole\ListaConsole\obj\Debug\ListaConsole.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\ListaConsole\ListaConsole\obj\Debug\ListaConsole.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\ListaConsole\ListaConsole\obj\Debug\ListaConsole.exe
+C:\Users\caleb\source\repos\ListaConsole\ListaConsole\obj\Debug\ListaConsole.pdb
